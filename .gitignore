@@ -27,6 +27,7 @@ htmlcov/
 # OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Generated plots or local data artifacts (optional)
 *.png
